@@ -91,7 +91,7 @@ jupyter notebook HW4_406534669.ipynb
 
 3. **Run all cells** to reproduce the complete analysis
 
-## 📈 Methodology Details
+## Methodology Details
 
 ### 1. Historical Methods
 
